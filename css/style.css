@@ -1,4 +1,4 @@
-.center{
+.center-h1{
   text-align: center;
 display: block;
 margin: 0 auto;
@@ -9,8 +9,59 @@ margin: 0 auto;
   margin: 0 auto;
 
 }
-.right{
-  text-align: left;
-  display:block;
-  
+
+h1{
+  color: red;
+
+
+}
+.red{
+  color: red;
+
+}
+
+.inline{
+  display: inline;
+
+
+}
+.nav-link{
+text-decoration: none;
+color: #3A49FF;
+}
+.nav-linkhover{
+  color: red;
+  size: 23px;
+
+}
+.navstuff{
+size: 20px;
+display: inline;
+  padding-right: 10px;
+
+}
+
+.center-h2{
+text-align:center;
+font-family: 'Russo One', sans-serif;
+color: #1E3EFF;
+}
+.center-h1{
+  font-family: 'archivo black', sans-serif;
+}
+.pictureI{
+  padding-left: 200px;
+
+}
+.nav{
+  background-color: #F2EEFF;
+}
+.body{
+background-color: #3152FF;
+}
+
+img.resize{
+width: 300px;
+height: 276px;
+
 }
