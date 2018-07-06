@@ -37,6 +37,7 @@ color: #A7AAAB;
   width: 300px;
   height: 276px;
 padding-top: 100px;
+padding-bottom: 200px;
 }
 .nav{
 
@@ -82,7 +83,7 @@ li a:hover {
     background-color: #111;
 }
 .divvy{
-  width: 500px;
+  width: 1000px;
     padding: 10px;
     border: 5px;
     margin: 0;
@@ -110,11 +111,16 @@ background-color: #35F7FF;
 .picture3{
   width: 300px;
   height: 276px;
-
+padding-bottom: 450px;
 
 }
 
+.picture4{
+  width: 300px;
+  height: 276px;
 
+
+}
 .divvy3{
   width: 1100px;
     padding: 10px;
